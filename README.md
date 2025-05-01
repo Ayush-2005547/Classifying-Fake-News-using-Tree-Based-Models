@@ -27,8 +27,8 @@ This project demonstrates the application of **Decision Trees** and **Random For
    - Random Forest model is used to analyze the importance of different features (words) in predicting whether an article is fake or real.
 
 ## Results:
-- **Decision Tree CV Accuracy**: (Insert accuracy here)
-- **Random Forest CV Accuracy**: (Insert accuracy here)
+- **Decision Tree CV Accuracy**: ( 0.995500913180988)
+- **Random Forest CV Accuracy**: (0.9873491024099069)
 
 The Random Forest model generally performs better due to its ensemble nature, reducing overfitting compared to a single decision tree.
 
@@ -38,4 +38,5 @@ The Random Forest model generally performs better due to its ensemble nature, re
 - **TF-IDF**: For text feature extraction.
 - **Matplotlib**: For visualization of feature importances and decision tree.
 - **Graphviz**: For visualizing decision trees.
-
+  ## Files:
+1. Data Source`:(https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset/data)
