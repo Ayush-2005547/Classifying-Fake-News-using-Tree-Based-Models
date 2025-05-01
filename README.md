@@ -30,7 +30,7 @@ This project demonstrates the application of **Decision Trees** and **Random For
 - **Decision Tree CV Accuracy**: ( 0.995500913180988)
 - **Random Forest CV Accuracy**: (0.9873491024099069)
 
-The Random Forest model generally performs better due to its ensemble nature, reducing overfitting compared to a single decision tree.
+Surprisingly, the **Decision Tree outperformed the Random Forest** in terms of cross-validation accuracy for this dataset. This could be due to the nature of the data or the simplicity of the feature space, where a single well-tuned tree was sufficient.
 
 ## Technologies Used:
 - **Python**
